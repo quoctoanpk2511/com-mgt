@@ -6,6 +6,6 @@
     <referenceTo>Contact</referenceTo>
     <relationshipLabel>Leave Requests</relationshipLabel>
     <relationshipName>Leave_Requests</relationshipName>
-    <deleteConstraint>SetNull</deleteConstraint>
+    <deleteConstraint>Restrict</deleteConstraint>
     <required>true</required>
 </CustomField>

@@ -5,6 +5,14 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>com_mgt_postman</members>
+        <name>ConnectedApp</name>
+    </types>
+    <types>
+        <members>Contact.Employee</members>
+        <name>RecordType</name>
+    </types>
+    <types>
         <members>*</members>
         <name>ApexComponent</name>
     </types>
