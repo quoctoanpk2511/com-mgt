@@ -37,3 +37,7 @@ sfca_results.json
 
 # Local environment variables
 .env
+# Local custom metadata overrides (do not commit tokens)
+force-app/main/default/objects/Slack_Config__mdt/records/*.local.record-meta.xml
+
+CLAUDE.md

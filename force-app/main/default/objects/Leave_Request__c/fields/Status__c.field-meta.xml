@@ -3,6 +3,7 @@
     <fullName>Status__c</fullName>
     <label>Status</label>
     <type>Picklist</type>
+    <required>true</required>
     <valueSet>
         <restricted>true</restricted>
         <valueSetDefinition>

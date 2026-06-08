@@ -8,6 +8,5 @@
         <label>Leave Request Name</label>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Leave Requests</pluralLabel>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
